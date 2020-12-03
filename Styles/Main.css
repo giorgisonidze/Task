@@ -99,6 +99,26 @@ a{
 	margin: 40px 0px 0px 30px;
 	display: inline-block;
 }
+.box4{
+	height: 650px;
+	width: 100%;
+	background-color: #E6E6E6;
+	margin-top: 30px;
+}
+.box5{
+	margin: 0px 0px 0px 550px;
+	height: 550px;
+	width: 70%;
+	display: inline-block;
+	vertical-align: top;
+}
+.box5text{
+	display: inline-block;
+	width: 250px;
+	vertical-align: top;
+	margin: 0px 0px 0px 150px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
 .box2text{
 	display: inline-block;
 	width: 70%;
@@ -118,3 +138,9 @@ a{
 }
 .phone{
 	margin: 25px 0px 0px 60px;
+}
+.contactinfo{
+	font-size: 20px;
+	color: #3D58A6;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
